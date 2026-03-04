@@ -1,4 +1,4 @@
-# AI Model Risk Management (MRM) Toolkit
+# AI Model Risk Management (MRM) Governance Framework
 
 This repository demonstrates a practical implementation of **Model Risk Management (MRM)**
 controls commonly used in regulated financial institutions. It shows how model governance
